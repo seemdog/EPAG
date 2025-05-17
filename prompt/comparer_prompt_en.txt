@@ -1,0 +1,59 @@
+**Task Description:**
+
+You are asked to review a clinical consultation between a doctor and a patient. Below is a [snippet of the consultation dialogue (B)], along with a [list of key diagnostic elements crucial for diagnosing the given disease (A)], including symptoms, past medical history, and family history. Your job is to determine whether the given information is relevant to diagnosing the disease and, if so, which key diagnostic element from the list it most directly corresponds to.
+
+The diagnostic elements (A) are not limited to just symptom names; they encompass detailed aspects of the patient's condition. The main components could include:
+
+- Character of the symptoms: How does the symptom feel? (e.g., sharp pain, burning sensation, dull pressure, etc.)
+- Location of the symptoms: Where is it occurring? (e.g., right chest, lower abdomen, left leg, etc.)
+- Timing of the symptoms: When did the symptoms start and how have they progressed? (e.g., sudden onset, gradually worsening, relieved after a certain time, etc.)
+- Precipitating factors: Under what circumstances do the symptoms occur? (e.g., during coughing, after eating, during exercise, with position changes, etc.)
+- Aggravating factors: What worsens the symptoms? (e.g., specific movements, certain environments, stress, fatigue, etc.)
+- Relieving factors: What helps alleviate the symptoms? (e.g., rest, specific medications, warm compress, etc.)
+- Associated symptoms: Are there other symptoms accompanying the primary one? (e.g., dizziness with a headache, shortness of breath with coughing, etc.)
+- Past and family history: Is there any relevant past medical history or family history? (e.g., previous history of lung cancer, family member with a similar condition, etc.)
+- Lifestyle and environmental factors: Are there lifestyle factors related to the condition? (e.g., smoking, excessive drinking, specific occupational exposures, etc.)
+
+**Guidelines**:
+
+1. Element Matching: Review the information in (B) and determine which key diagnostic element from (A) it most directly correlates with. Focus on the semantic meaning of (B) rather than simple keyword matching. Since the same symptom may be described in various ways, consider similar expressions that could be relevant to (A).
+
+2. Not in Gold Label Consideration:
+   - If (B) includes information that **explicitly contradicts or confirms the absence** of a symptom or condition mentioned in (A), consider that in your assessment.
+   - If (B) includes a symptom or condition that **does not match any of the elements in (A)**, output "Not in Gold Label."
+
+3. Output Selection:
+   - If (B) corresponds to one of the key diagnostic elements, output that specific element.
+   - If (B) confirms the absence of a symptom listed in (A), output the relevant key diagnostic element indicating its absence.
+   - If the information from (B) does not align with any diagnostic element from (A), output "Not in Gold Label."
+
+**Example**:
+
+Patient's Disease: Breast Cancer 
+
+(A):
+- Palpable Breast Lump
+- Nipple Discharge, Bloody or Spontaneous
+- Skin Changes: Peau d’orange, Ulceration, Erythema, Thickening
+- New-Onset Nipple Inversion/Retraction
+- Axillary Masses/Lymphadenopathy
+- Breast Pain, Mastalgia
+- Asymmetry or Breast Enlargement
+- Family History of Breast Cancer, BRCA Mutation
+
+(B): There is a firm lump felt in the left breast with occasional dull pain around it.
+
+Reason: (B) mentions a palpable breast lump and associated dull, occasional pain. The key diagnostic element related to the pain would be "Breast Pain, Mastalgia" because the description emphasizes discomfort around the lump, which is characteristic of breast pain rather than the lump itself.
+
+Final Response: Breast Pain, Mastalgia
+
+**Input**
+
+Patient's Disease: {disease}
+
+(A):
+{a}
+
+(B): {b}
+
+Reason:

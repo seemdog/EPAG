@@ -1,0 +1,487 @@
+disease,weight,symptom
+Breast Cancer,h,Palpable Breast Lump
+Breast Cancer,h,"Nipple Discharge, Bloody or Spontaneous"
+Breast Cancer,h,"Skin Changes: Peau d’orange, Ulceration, Erythema, Thickening"
+Breast Cancer,h,New-Onset Nipple Inversion/Retraction
+Breast Cancer,h,Axillary Masses/Lymphadenopathy
+Breast Cancer,h,"Asymmetry in Breast Size/Shape, New Onset"
+Breast Cancer,m,"Breast Pain, Mastalgia"
+Breast Cancer,m,Asymmetry or Breast Enlargement
+Breast Cancer,m,Nipple/Areolar Eczema or Itching
+Breast Cancer,m,Localized Thickening or Induration
+Breast Cancer,m,"Systemic Symptoms: Weight Loss, Fatigue, Night Sweats, Fever"
+Breast Cancer,m,Pregnancy/Lactation-Related Abnormalities
+Breast Cancer,m,Post-Surgical or Post-Radiation Breast Changes
+Breast Cancer,h,"Family History of Breast Cancer, BRCA Mutation"
+Breast Cancer,h,"Genetic Predisposition: BRCA1/BRCA2, TP53, PALB2 etc."
+Breast Cancer,h,Prior Biopsy with Atypia or LCIS/ADH
+Breast Cancer,m,"Hormonal Factors: Early Menarche, Late Menopause, HRT Use"
+Breast Cancer,h,"Prior Chest Radiation Therapy, esp. at the age of 10~30"
+Prostate Cancer,h,Urinary Hesitancy
+Prostate Cancer,h,Weak Urinary Stream
+Prostate Cancer,h,Urinary Frequency
+Prostate Cancer,h,"Pelvic Pain and Bone Pain, esp. Back or Hip Pain"
+Prostate Cancer,h,Hematuria and Hematospermia
+Prostate Cancer,h,Unexplained Weight Loss and Anorexia
+Prostate Cancer,m,Rapid Prostate-specific Antigen Increase
+Prostate Cancer,m,Nocturia Increase
+Prostate Cancer,m,Urinary Incontinence or Retention
+Prostate Cancer,m,Ejaculatory Dysfunction and Erectile Dysfunction
+Prostate Cancer,h,"Family History of Prostate Cancer, esp. Early-Onset or Breast Cancer in Family"
+Prostate Cancer,h,BRCA1/2 Mutation Carrier
+Prostate Cancer,h,Black/African American Ancestry
+Prostate Cancer,h,Personal History of Prostate Cancer Before Age 40
+Prostate Cancer,m,Above Age-Adjusted Prostate-specific Antigen Median Levels
+Colorectal Cancer,h,Rectal Bleeding
+Colorectal Cancer,h,Iron Deficiency Anemia
+Colorectal Cancer,h,Unexplained Weight Loss
+Colorectal Cancer,h,Feeling of Incomplete Evacuation
+Colorectal Cancer,m,Changes in Bowel Habits - Diarrhea/Constipation
+Colorectal Cancer,m,Abdominal Pain or Bloating
+Colorectal Cancer,m,Mucus in Stool
+Colorectal Cancer,h,Personal History of Inflammatory Bowel Disease - IBD
+Colorectal Cancer,h,Family History of Colorectal Cancer
+Colorectal Cancer,h,History of Adenomatous Polyps
+Colorectal Cancer,m,Prior Abdominal/Pelvic Radiation Therapy
+Colorectal Cancer,m,Smoking & Alcohol Consumption
+Colorectal Cancer,m,Obesity
+Lung Cancer,h,Persistent Cough
+Lung Cancer,h,Hemoptysis - Coughing up Blood
+Lung Cancer,h,Dyspnea - Shortness of Breath
+Lung Cancer,h,Chest Pain
+Lung Cancer,h,Unexplained Weight Loss
+Lung Cancer,m,Hoarseness - Voice Changes
+Lung Cancer,m,Bone Pain
+Lung Cancer,m,Headache
+Lung Cancer,m,Fatigue
+Lung Cancer,h,Smoking History
+Lung Cancer,m,Secondhand Smoke Exposure
+Lung Cancer,m,Occupational Exposure to Carcinogens
+Lung Cancer,m,Residential Radon Exposure
+Lung Cancer,m,Prior Chest Radiation Therapy
+Lung Cancer,m,Family History of Lung Cancer
+Hypertrophic cardiomyopathy,h,"Dyspnea, Shortness of Breath"
+Hypertrophic cardiomyopathy,h,"Chest Pain, Angina"
+Hypertrophic cardiomyopathy,h,Syncope or Dizziness
+Hypertrophic cardiomyopathy,h,Chest Tightness or Angina After Exercise
+Hypertrophic cardiomyopathy,h,Dizziness Upon Exertion or Standing Up
+Hypertrophic cardiomyopathy,m,Dyspnea During Exercise or After Meals
+Hypertrophic cardiomyopathy,m,Expiratory Dyspnea Worse Than Inspiratory Dyspnea
+Hypertrophic cardiomyopathy,m,Lightheadedness or Palpitations During Valsalva Maneuver
+Hypertrophic cardiomyopathy,h,"Family History of Sudden Cardiac Death, SCD"
+Hypertrophic cardiomyopathy,m,Abnormal Blood Pressure Response to Exercise
+Stroke,h,Unilateral Weakness
+Stroke,h,Speech Disturbance
+Stroke,h,Visual Disturbance
+Stroke,h,Dizziness & Balance Issues
+Stroke,h,Severe Headache - including Thunderclap Headache
+Stroke,h,Altered Consciousness
+Stroke,m,Sensory Loss
+Stroke,m,Dysphagia
+Stroke,m,Cognitive Impairment
+Stroke,m,Seizures
+Stroke,m,TIA
+Stroke,m,Nausea/Vomiting
+Stroke,h,Hypertension History
+Stroke,h,Diabetes Mellitus
+Stroke,h,"Atrial Fibrillation, AF"
+Stroke,m,Pregnancy-Related Stroke Risk
+Stroke,m,Arteriopathy and Arterial Dissection
+aSAH,h,Thunderclap Headache
+aSAH,h,Altered Consciousness/Coma
+aSAH,h,Nausea/Vomiting
+aSAH,h,Neck Stiffness/Nuchal Rigidity
+aSAH,h,Seizures
+aSAH,h,"Transient Loss of Consciousness, TLOC"
+aSAH,m,Blurred Vision or Diplopia
+aSAH,m,Sudden Severe Hypertension
+aSAH,m,Photophobia & Eye Pain
+aSAH,m,Persistent Headache After Initial Onset
+aSAH,m,Paresthesia or Numbness in Limbs
+aSAH,h,History of Intracranial Aneurysm
+aSAH,h,Family History of Aneurysmal SAH
+aSAH,h,Smoking
+aSAH,h,Hypertension
+aSAH,m,Multiple Aneurysms
+"Lower Extremity Peripheral Artery Disease, PAD",h,Claudication
+"Lower Extremity Peripheral Artery Disease, PAD",h,Ischemic Rest Pain
+"Lower Extremity Peripheral Artery Disease, PAD",h,Non-healing Wounds/Gangrene
+"Lower Extremity Peripheral Artery Disease, PAD",m,Atypical Leg Pain
+"Lower Extremity Peripheral Artery Disease, PAD",m,Leg Weakness
+"Lower Extremity Peripheral Artery Disease, PAD",m,Cold or Pale Extremity
+"Lower Extremity Peripheral Artery Disease, PAD",m,Reduced or Absent Pulses in Lower Extremities
+"Lower Extremity Peripheral Artery Disease, PAD",m,Dependent Rubor and Elevation Pallor
+"Lower Extremity Peripheral Artery Disease, PAD",m,"Hair Loss, Nail Changes, Skin Thinning"
+"Lower Extremity Peripheral Artery Disease, PAD",m,Chronic Wounds and Recurrent Infections
+"Lower Extremity Peripheral Artery Disease, PAD",m,Leg Swelling
+"Lower Extremity Peripheral Artery Disease, PAD",m,Erectile Dysfunction
+"Lower Extremity Peripheral Artery Disease, PAD",h,Smoking History
+"Lower Extremity Peripheral Artery Disease, PAD",h,Diabetes Mellitus
+"Lower Extremity Peripheral Artery Disease, PAD",m,Hypertension
+"Lower Extremity Peripheral Artery Disease, PAD",m,Hyperlipidemia
+"Lower Extremity Peripheral Artery Disease, PAD",h,"History of Coronary Artery Disease, CAD"
+"Lower Extremity Peripheral Artery Disease, PAD",h,History of Stroke
+"Lower Extremity Peripheral Artery Disease, PAD",m,"Chronic Kidney Disease, CKD"
+"Lower Extremity Peripheral Artery Disease, PAD",m,Family History of PAD
+"Lower Extremity Peripheral Artery Disease, PAD",m,Rheumatoid Diseases
+Atrial fibrillation,h,Palpitations
+Atrial fibrillation,h,Dizziness and Syncope
+Atrial fibrillation,h,Chest Pain/Angina
+Atrial fibrillation,h,Dyspnea
+Atrial fibrillation,m,Fatigue and Weakness
+Atrial fibrillation,m,Cognitive Impairment
+Atrial fibrillation,m,Exertional Dyspnea
+Atrial fibrillation,m,"Sleep Disturbance, Including Nocturnal Dyspnea"
+Atrial fibrillation,h,Hypertension
+Atrial fibrillation,h,Diabetes Mellitus
+Atrial fibrillation,h,Obesity
+Atrial fibrillation,h,Smoking
+Atrial fibrillation,h,Excessive Alcohol Consumption
+Atrial fibrillation,m,"Chronic Kidney Disease, CKD"
+Atrial fibrillation,h,History of Myocardial Infarction and CAD
+Atrial fibrillation,m,"Obstructive Sleep Apnea, OSA"
+Heart failure,h,Dyspnea
+Heart failure,h,Orthopnea
+Heart failure,h,"Paroxysmal Nocturnal Dyspnea, PND"
+Heart failure,h,Peripheral Edema
+Heart failure,h,Fatigue & Weakness
+Heart failure,h,Rapid Weight Gain or Loss
+Heart failure,m,Nocturia
+Heart failure,m,Cyanosis
+Heart failure,m,"Irregular Heartbeat, Palpitations"
+Heart failure,m,Loss of Appetite & Abdominal Distension
+Heart failure,h,Hypertension
+Heart failure,h,"Coronary Artery Disease, CAD"
+Heart failure,h,Diabetes Mellitus
+Heart failure,m,"Chronic Kidney Disease, CKD"
+Heart failure,m,Obesity
+Heart failure,m,Alcohol & Smoking
+Heart failure,h,Prior Myocardial Infarction
+Anaphylaxis,h,Acute Onset of Symptoms
+Anaphylaxis,h,"Skin and Mucosal Involvement: Urticaria, Angioedema, Flushing, Pruritus"
+Anaphylaxis,h,"Respiratory Symptoms: Dyspnea, Wheezing, Stridor, Upper Airway Edema"
+Anaphylaxis,h,"Hypotension, Shock, Syncope"
+Anaphylaxis,h,"Severe Gastrointestinal Symptoms: Cramping, Vomiting, Diarrhea"
+Anaphylaxis,m,"Hoarseness, Difficulty Swallowing with Respiratory Distress"
+Anaphylaxis,m,"Tachycardia, Arrhythmia"
+Anaphylaxis,m,Confusion and Altered Mental Status
+Anaphylaxis,m,Nausea and Mild Abdominal Symptoms Without Hypotension
+Anaphylaxis,h,History of Anaphylaxis
+Anaphylaxis,h,"History of Food Allergy: Peanut, Tree Nuts, Shellfish, Dairy, etc."
+Anaphylaxis,h,"History of Venom Allergy: Bee, Wasp, Fire Ants"
+Anaphylaxis,m,History of Asthma
+Anaphylaxis,h,Radiocontrast media
+Anaphylaxis,m,"Exercise-Induced Anaphylaxis, EIA"
+Atopic dermatitis,h,Severe Pruritus
+Atopic dermatitis,h,Characteristic Lesion Distribution
+Atopic dermatitis,h,Chronic or Recurrent Dermatitis
+Atopic dermatitis,h,"Personal or Family History of Atopy: AD, Asthma, Allergic Rhinitis"
+Atopic dermatitis,m,Xerosis / Dry Skin
+Atopic dermatitis,m,Course Influenced by Environmental or Emotional Factors
+Atopic dermatitis,m,"Specific Skin Features: Keratosis Pilaris, Hyperlinear Palms, Ichthyosis"
+Atopic dermatitis,m,Tendency for Eczema in Specific Locations
+Atopic dermatitis,m,Early-Onset of Skin Lesions
+Atopic dermatitis,m,"Recurrent Skin Infections: S. aureus, HSV, Fungal Infections"
+Atopic dermatitis,m,"History of Atopic Comorbidities: Asthma, Allergic Rhinitis, Conjunctivitis"
+Atopic dermatitis,m,History of Food Allergy
+Allergic rhinitis,h,"Nasal Symptoms - Sneezing, Rhinorrhea, Congestion, Itching"
+Allergic rhinitis,h,Ocular Symptoms - Itchy or Watery Eyes
+Allergic rhinitis,h,Symptom Worsening in Allergen Exposure
+Allergic rhinitis,m,Worse Symptoms at Night or Upon Waking
+Allergic rhinitis,m,Sleep Disturbances
+Allergic rhinitis,m,Exacerbation After Eating or Exercise
+Allergic rhinitis,m,Snoring and Sleep Apnea
+Allergic rhinitis,m,Tinnitus and Eustachian Tube Dysfunction
+Allergic rhinitis,h,History of Allergies - Personal or Family
+Allergic rhinitis,h,Coexisting Asthma or Atopic Dermatitis
+Allergic rhinitis,m,Smoking and Environmental Exposure
+Allergic rhinitis,m,Occupational Exposure
+Allergic rhinitis,m,Hormonal Changes
+Gastric Cancer,h,Unintentional Weight Loss
+Gastric Cancer,h,Persistent Epigastric Pain
+Gastric Cancer,h,Dysphagia - Difficulty Swallowing
+Gastric Cancer,h,GI Bleeding - Melena or Hematemesis
+Gastric Cancer,h,Loss of Appetite
+Gastric Cancer,m,Chronic Dyspepsia
+Gastric Cancer,m,Abdominal Bloating or Fullness
+Gastric Cancer,m,Chronic Anemia - Iron Deficiency
+Gastric Cancer,m,Early Satiety
+Gastric Cancer,h,Helicobacter pylori Infection History
+Gastric Cancer,h,Family History of Gastric Cancer in First-Degree Relatives
+Gastric Cancer,h,Hereditary Gastrointestinal Polyposis or Hereditary Cancer Syndromes
+Gastric Cancer,m,Smoking History
+Gastric Cancer,m,"High-Salt Diet, Red Meat, Processed Foods Consumption"
+Gastric Cancer,m,History of Gastric Intestinal Metaplasia or Atrophic Gastritis
+Gastric Cancer,m,Living in Persistent Poverty
+Gastric Cancer,m,History of Partial Gastrectomy
+Ulcerative Colitis,h,"Hematochezia, Bloody Diarrhea"
+Ulcerative Colitis,h,"Frequent Diarrhea, Loose Stools"
+Ulcerative Colitis,h,Urgency and Tenesmus
+Ulcerative Colitis,h,Nocturnal Bowel Movements
+Ulcerative Colitis,h,"Weight Loss, Malnutrition"
+Ulcerative Colitis,m,"Systemic Symptoms: Fatigue, Fever, Malaise, Anemia"
+Ulcerative Colitis,m,Abdominal Cramps and Pain
+Ulcerative Colitis,m,Mucus in Stool
+Ulcerative Colitis,m,Incomplete Evacuation
+Ulcerative Colitis,m,"Arthralgia, Joint Pain"
+Ulcerative Colitis,m,"Ocular and Dermatologic Manifestations: Uveitis, Erythema Nodosum, Pyoderma Gangrenosum"
+Ulcerative Colitis,h,Genetic Predisposition
+Ulcerative Colitis,m,Smoking Cessation
+Ulcerative Colitis,m,History of NSAID and Antibiotic Use
+Ulcerative Colitis,m,History of Recurrent Gastrointestinal Infections
+Ulcerative Colitis,m,Dietary Factors
+Ulcerative Colitis,m,Psychological Stress
+Ulcerative Colitis,m,History of Appendectomy
+Ulcerative Colitis,h,"Primary Sclerosing Cholangitis, PSC"
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Abdominal Pain
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Infrequent Bowel Movements
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,"Hard or Lumpy Stools, Bristol Stool Form Scale 1-2"
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Straining During Bowel Movements
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Sensation of Incomplete Evacuation
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Abdominal Bloating
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Post-Defecation Discomfort
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Altered Bowel Habits
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Excessive Gas or Flatulence
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Nocturnal Symptoms
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Systemic Symptoms
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Female Gender
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,Younger Age Group
+"Irritable Bowel Syndrome with Constipation, IBS-C",h,"Stress & Psychological Comorbidities: Anxiety, Depression, etc."
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,"Dietary Factors: Low Fiber, High Fat, FODMAPs Sensitivity"
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Physical Inactivity
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,"Sleep Disorders: Insomnia, Poor Sleep Quality"
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Family History of IBS
+"Irritable Bowel Syndrome with Constipation, IBS-C",m,Prior GI Infections & Post-Infectious IBS
+HIV Infection,h,Fever
+HIV Infection,h,Sore Throat
+HIV Infection,h,Lymphadenopathy
+HIV Infection,h,Myalgia and Arthralgia
+HIV Infection,h,Maculopapular Rash
+HIV Infection,h,Oral Ulcers
+HIV Infection,h,Unintentional Weight Loss
+HIV Infection,h,Oral/Esophageal Candidiasis
+HIV Infection,h,Chronic Diarrhea
+HIV Infection,m,Night Sweats
+HIV Infection,m,Severe Fatigue
+HIV Infection,m,"Gastrointestinal Symptoms: Nausea, Vomiting, Abdominal Pain"
+HIV Infection,m,"Cognitive Impairment, Peripheral Neuropathy"
+HIV Infection,m,Genital Ulcers and History of STIs
+HIV Infection,h,"Men Who Have Sex with Men, MSM"
+HIV Infection,h,"Injection Drug Use, IDU"
+HIV Infection,h,"Transactional Sex, Commercial Sex Work"
+HIV Infection,h,Sexual Contact with HIV-Positive Partner
+HIV Infection,m,Multiple Sexual Partners
+HIV Infection,m,"History of Sexually Transmitted Infections, STIs"
+HIV Infection,m,Incarceration History
+HIV Infection,m,Living in High-Prevalence Settings
+HIV Infection,h,"Mother-to-Child Transmission, MTCT"
+HIV Infection,m,"Invasive Procedures: Tattoos, Piercings, Cosmetic Surgery, etc."
+HIV Infection,m,History of Blood Transfusion or Organ Transplantation
+Nonalcoholic Fatty Liver Disease,h,Right Upper Quadrant Discomfort
+Nonalcoholic Fatty Liver Disease,h,Fatigue
+Nonalcoholic Fatty Liver Disease,h,"Elevated Liver Enzymes, elevated ALT/AST"
+Nonalcoholic Fatty Liver Disease,m,Weight Gain or Obesity
+Nonalcoholic Fatty Liver Disease,m,Unintentional Weight Loss and Sarcopenia
+Nonalcoholic Fatty Liver Disease,m,Jaundice
+Nonalcoholic Fatty Liver Disease,m,Ascites and Edema
+Nonalcoholic Fatty Liver Disease,m,Cognitive Impairment
+Nonalcoholic Fatty Liver Disease,h,Obesity & Metabolic Syndrome
+Nonalcoholic Fatty Liver Disease,h,"Type 2 Diabetes Mellitus, T2DM"
+Nonalcoholic Fatty Liver Disease,h,"Dyslipidemia: High LDL, Low HDL, High TGs"
+Nonalcoholic Fatty Liver Disease,m,Hypertension
+Nonalcoholic Fatty Liver Disease,m,Excessive Alcohol Consumption
+Nonalcoholic Fatty Liver Disease,m,Medication-Induced Liver Disease
+Nonalcoholic Fatty Liver Disease,m,Hypothyroidism
+Nonalcoholic Fatty Liver Disease,m,"Genetic Predisposition: PNPLA3, TM6SF2, etc."
+Nonalcoholic Fatty Liver Disease,m,"Environmental Toxin Exposure: Heavy Metals, Pesticides, Vinyl Chloride"
+Nonalcoholic Fatty Liver Disease,m,"Nutritional Factors: Rapid Weight Loss, TPN, Malnutrition, High Fructose Intake"
+COPD,h,Dyspnea
+COPD,h,Chronic Cough
+COPD,h,Sputum Production
+COPD,h,Wheezing and Chest Tightness
+COPD,m,Reduced Exercise Tolerance
+COPD,m,"Systemic Symptoms - Fatigue, Weight Loss, Anorexia"
+COPD,m,Morning/Nighttime Symptoms
+COPD,m,Barrel Chest
+COPD,m,Cyanosis
+COPD,m,Edema
+COPD,h,Smoking and Secondhand Smoke Exposure
+COPD,h,Occupational Dust and Chemical Exposure
+COPD,h,Indoor and Outdoor Air Pollution
+COPD,m,Frequent Respiratory Infections in Childhood
+COPD,m,Family History and Genetic Factors - Alpha-1 Antitrypsin Deficiency
+COPD,m,Premature Birth and Low Birth Weight History
+COPD,m,Asthma and Airway Hyperresponsiveness History
+COPD,m,Chronic Rhinosinusitis and Nasal Polyps
+Asthma,h,Wheezing
+Asthma,h,"Shortness of Breath, Dyspnea"
+Asthma,h,Cough
+Asthma,h,Chest Tightness
+Asthma,h,Nocturnal Symptom Worsening
+Asthma,h,Activity Limitation
+Asthma,m,Abnormal Breath Sounds
+Asthma,m,Allergy-Associated Symptoms
+Asthma,m,History of Exacerbations
+Asthma,m,Seasonal Symptom Variation
+Asthma,m,Prolonged Symptoms After Viral Infection
+Asthma,h,Smoking and Secondhand Smoke Exposure
+Asthma,m,Occupational Exposure to Irritants or Allergens
+Asthma,m,Indoor and Outdoor Air Pollution
+Asthma,m,Early Childhood Respiratory Infections
+Asthma,m,Family History of Asthma and Allergies
+Asthma,m,"Personal History of Allergic Conditions: Atopic Dermatitis, Allergic Rhinitis, Food Allergy"
+Asthma,m,Obesity
+Asthma,m,Vitamin D Deficiency in Pregnancy
+Asthma,m,Mode of Delivery - Cesarean vs. Vaginal Birth
+Asthma,m,Broad-Spectrum Antibiotic Use in Early Life
+Asthma,m,History of Chronic Sinusitis and Nasal Polyps
+Acute Kidney Injury,h,Oliguria or Anuria
+Acute Kidney Injury,h,Edema and Weight Gain
+Acute Kidney Injury,h,Confusion and Altered Consciousness
+Acute Kidney Injury,h,Changes in Urinary Appearance
+Acute Kidney Injury,h,Hypertension or Hypotension
+Acute Kidney Injury,m,Muscle Cramps and Seizures
+Acute Kidney Injury,m,Nausea and Vomiting
+Acute Kidney Injury,m,Flank Pain
+Acute Kidney Injury,m,Dyspnea
+Acute Kidney Injury,m,Nocturia
+Acute Kidney Injury,m,Fever and Systemic Inflammatory Response
+Acute Kidney Injury,h,History of Chronic Kidney Disease
+Acute Kidney Injury,h,History of Diabetes Mellitus
+Acute Kidney Injury,m,History of Hypertension
+Acute Kidney Injury,h,History of Cardiovascular Disease
+Acute Kidney Injury,m,"History of Liver Disease, Cirrhosis"
+Acute Kidney Injury,h,Sepsis and Critical Illness
+Acute Kidney Injury,h,"Postoperative State, Especially Cardiac Surgery"
+Acute Kidney Injury,h,Nephrotoxic Medications
+Acute Kidney Injury,h,Radiocontrast Agents
+Acute Kidney Injury,h,Dehydration and Hypovolemia
+Acute Kidney Injury,m,Anemia and Hematologic Disorders
+Acute Kidney Injury,m,Advanced Age
+Acute Kidney Injury,h,Trauma and Rhabdomyolysis
+Diabetes,h,Polyuria
+Diabetes,h,Polydipsia
+Diabetes,h,Polyphagia
+Diabetes,h,Unintentional Weight Loss
+Diabetes,m,"Peripheral Neuropathy: Tingling, Numbness, or Burning Sensation"
+Diabetes,m,Nocturia
+Diabetes,m,Pruritus or Dry Skin
+Diabetes,m,"Frequent Infections, Especially UTIs or Fungal Infections"
+Diabetes,m,Muscle Weakness and Cramps
+Diabetes,m,Loss of Appetite
+Diabetes,m,Fatigue and Lethargy
+Diabetes,m,Blurred Vision
+Diabetes,m,Delayed Wound Healing
+Diabetes,h,Family History of Diabetes
+Diabetes,h,History of Impaired Fasting Glucose or Impaired Glucose Tolerance
+Diabetes,h,"Overweight or Obesity, BMI ≥25 kg/m²"
+Diabetes,h,Physical Inactivity
+Diabetes,h,"History of Hypertension, BP ≥140/90 mmHg"
+Diabetes,h,Dyslipidemia: HDL <35 mg/dL or TG >250 mg/dL
+Diabetes,h,"Polycystic Ovary Syndrome, PCOS"
+Diabetes,h,"History of Gestational Diabetes Mellitus, GDM"
+Diabetes,m,"Chronic Stress, Depression, Anxiety"
+Diabetes,m,"Nonalcoholic Fatty Liver Disease, NAFLD"
+Diabetes,m,Smoking History
+Diabetes,m,Alcohol Consumption
+Diabetes,m,"History of Chronic Kidney Disease, CKD"
+Diabetes,m,Use of Hyperglycemia-Inducing Medications
+Diabetes,m,Sleep Deprivation
+Acute pancreatitis,h,Severe Epigastric Pain
+Acute pancreatitis,h,Nausea and Vomiting
+Acute pancreatitis,h,Loss of Appetite
+Acute pancreatitis,h,Abdominal Distension
+Acute pancreatitis,m,Abdominal Tenderness and Rebound Pain
+Acute pancreatitis,h,Jaundice
+Acute pancreatitis,m,Cullen’s and Grey-Turner Signs
+Acute pancreatitis,m,Respiratory Distress
+Acute pancreatitis,m,Fever
+Acute pancreatitis,m,Hypotension and Tachycardia
+Acute pancreatitis,h,Gallstone Disease
+Acute pancreatitis,h,Heavy Alcohol Use
+Acute pancreatitis,h,Hypertriglyceridemia
+Acute pancreatitis,m,Hypercalcemia
+Acute pancreatitis,m,Family History of Acute Pancreatitis
+Acute pancreatitis,m,"History of Endoscopic Retrograde Cholangiopancreatography, ERCP"
+Acute pancreatitis,m,"Diuretics, Immunosuppressants, Anticonvulsants, Antibiotics Use"
+Acute pancreatitis,m,Smoking History
+Acute pancreatitis,m,Obesity
+Acute pancreatitis,m,Pancreatic Trauma History
+Acute pancreatitis,m,Autoimmune Pancreatitis
+Acute pancreatitis,m,Cystic Fibrosis or Genetic Factors
+Systemic Sclerosis,h,Digital Ulcers
+Systemic Sclerosis,h,"Dyspnea, Chronic Dry Cough, Exercise Intolerance"
+Systemic Sclerosis,h,Sudden Onset of Hypertension
+Systemic Sclerosis,h,Chest Pain and Palpitations
+Systemic Sclerosis,h,Dysphagia
+Systemic Sclerosis,m,Raynaud’s Phenomenon
+Systemic Sclerosis,m,"Skin Fibrosis, Sclerodactyly"
+Systemic Sclerosis,m,Telangiectasia
+Systemic Sclerosis,m,Muscle Weakness
+Systemic Sclerosis,m,Numbness and Tingling
+Systemic Sclerosis,m,Chronic Fatigue and Weakness
+Systemic Sclerosis,m,Unintentional Weight Loss
+Systemic Sclerosis,m,Bloating and Altered Bowel Habits
+Systemic Sclerosis,m,Fecal Incontinence
+Systemic Sclerosis,m,Arthralgia and Myalgia
+Systemic Sclerosis,m,Edema
+Systemic Sclerosis,h,Family History of Autoimmune Diseases
+Systemic Sclerosis,h,"Autoantibody Positivity: ANA, Anti-Scl-70, ACA, RNA Polymerase III"
+Systemic Sclerosis,h,Smoking History
+Systemic Sclerosis,h,Silica and Organic Solvent Exposure
+Systemic Sclerosis,m,Female Gender
+Systemic Sclerosis,m,History of Vasculitis or Other Autoimmune Diseases
+Systemic Sclerosis,m,"Chronic Infections: CMV, EBV, Parvovirus B19"
+Systemic Sclerosis,m,Postmenopausal Onset
+Systemic Lupus Erythematosus,h,Symmetrical Arthritis or Arthralgia
+Systemic Lupus Erythematosus,h,Malar Rash
+Systemic Lupus Erythematosus,h,Discoid Rash
+Systemic Lupus Erythematosus,h,Photosensitive Rash
+Systemic Lupus Erythematosus,h,Painless Oral/Nasal Ulcers
+Systemic Lupus Erythematosus,h,Seizures or Psychosis
+Systemic Lupus Erythematosus,h,Proteinuria
+Systemic Lupus Erythematosus,h,Edema
+Systemic Lupus Erythematosus,h,"Anemia, Leukopenia, Thrombocytopenia"
+Systemic Lupus Erythematosus,m,Unintentional Weight Loss
+Systemic Lupus Erythematosus,m,Unexplained Low-grade Fever
+Systemic Lupus Erythematosus,m,Chronic Fatigue and Weakness
+Systemic Lupus Erythematosus,m,Alopecia
+Systemic Lupus Erythematosus,m,Chest Pain and Palpitations
+Systemic Lupus Erythematosus,m,"Dyspnea, Chronic Dry Cough"
+Systemic Lupus Erythematosus,m,Exercise Intolerance
+Systemic Lupus Erythematosus,m,"Dry Eyes, Dry Mouth"
+Systemic Lupus Erythematosus,m,Numbness and Tingling
+Systemic Lupus Erythematosus,h,Family history of autoimmune diseases
+Systemic Lupus Erythematosus,h,"Female sex, particularly reproductive years"
+Systemic Lupus Erythematosus,m,Smoking history
+Systemic Lupus Erythematosus,h,Significant UV exposure history
+Systemic Lupus Erythematosus,m,Oral contraceptive or hormonal therapy use
+Systemic Lupus Erythematosus,m,"History of lupus-inducing medications: hydralazine, procainamide, isoniazid"
+Systemic Lupus Erythematosus,m,Obesity or metabolic syndrome
+Systemic Lupus Erythematosus,m,"Cardiovascular risk factors: hypertension, dyslipidemia"
+Systemic Lupus Erythematosus,m,Recent psychosocial stress
+Systemic Lupus Erythematosus,m,"Recent or recurrent viral infections, e.g., Epstein-Barr Virus"
+Hypothyroidism,h,Chronic Fatigue
+Hypothyroidism,h,Cold Intolerance
+Hypothyroidism,h,Weight Gain
+Hypothyroidism,h,Constipation
+Hypothyroidism,h,"Dry, Coarse Skin"
+Hypothyroidism,h,Hoarseness
+Hypothyroidism,m,Myalgia and Muscle Weakness
+Hypothyroidism,m,Hair Loss
+Hypothyroidism,m,"Menstrual Irregularities, Menorrhagia"
+Hypothyroidism,m,Bradycardia
+Hypothyroidism,m,Facial and Lower Extremity Edema
+Hypothyroidism,m,Cognitive Impairment
+Hypothyroidism,m,Depressed Mood or Emotional Instability
+Hypothyroidism,m,Muscle cramps
+Hypothyroidism,m,Pallor and Exertional Dyspnea
+Hypothyroidism,h,Family History of Thyroid or Autoimmune Disease
+Hypothyroidism,h,History of Thyroid Surgery or Radiation Therapy
+Hypothyroidism,m,History of Other Autoimmune Diseases
+Hypothyroidism,m,History of Psychiatric Disorders
+Hypothyroidism,m,Down or Turner Syndrome
+Hypothyroidism,m,"Amiodarone, Lithium, Interferon Use"
+Hypothyroidism,m,Excessive Iodine Intake
+Hypothyroidism,m,Pregnancy
+Hypothyroidism,m,Age ≥ 60 years

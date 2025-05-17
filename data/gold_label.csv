@@ -1,0 +1,487 @@
+disease,weight,symptom
+유방암 (Breast Cancer),h,유방의 만져지는 종괴 (Palpable Breast Lump)
+유방암 (Breast Cancer),h,"유두 분비물 (Nipple Discharge, Bloody or Spontaneous)"
+유방암 (Breast Cancer),h,"피부 변화 (Skin Changes: Peau d’orange, Ulceration, Erythema, Thickening)"
+유방암 (Breast Cancer),h,유두 함몰 또는 퇴축 (New-Onset Nipple Inversion/Retraction)
+유방암 (Breast Cancer),h,겨드랑이 종괴 (Axillary Masses/Lymphadenopathy)
+유방암 (Breast Cancer),h,"비대칭적인 유방 크기 변화 또는 형태 변화 (Asymmetry in Breast Size/Shape, New Onset)"
+유방암 (Breast Cancer),m,"유방통 (Breast Pain, Mastalgia)"
+유방암 (Breast Cancer),m,비대칭적인 유방 크기 변화 (Asymmetry or Breast Enlargement)
+유방암 (Breast Cancer),m,"유두 및 피부 가려움, 발진 (Nipple/Areolar Eczema or Itching)"
+유방암 (Breast Cancer),m,유방 조직의 단단한 감촉 변화 (Localized Thickening or Induration)
+유방암 (Breast Cancer),m,"전신적 증상 (Systemic Symptoms: Weight Loss, Fatigue, Night Sweats, Fever)"
+유방암 (Breast Cancer),m,임신 또는 수유 중 비정상적 유방 변화 (Pregnancy/Lactation-Related Abnormalities)
+유방암 (Breast Cancer),m,수술 후 또는 방사선 치료 후 유방 조직 변화 (Post-Surgical or Post-Radiation Breast Changes)
+유방암 (Breast Cancer),h,"가족력 (Family History of Breast Cancer, BRCA Mutation)"
+유방암 (Breast Cancer),h,"유전자 변이 (Genetic Predisposition: BRCA1/BRCA2, TP53, PALB2 등)"
+유방암 (Breast Cancer),h,이전 유방 생검에서 비정형 증식 발견 (Prior Biopsy with Atypia or LCIS/ADH)
+유방암 (Breast Cancer),m,"호르몬 요인 (Hormonal Factors: Early Menarche, Late Menopause, HRT Use)"
+유방암 (Breast Cancer),h,"어린 시절 흉부 방사선 치료 이력 (Prior Chest Radiation Therapy, esp. 10~30세 노출)"
+전립선암 (Prostate Cancer),h,배뇨 곤란 (Urinary Hesitancy)
+전립선암 (Prostate Cancer),h,약한 소변 줄기 (Weak Urinary Stream)
+전립선암 (Prostate Cancer),h,빈뇨 (Urinary Frequency)
+전립선암 (Prostate Cancer),h,"골반통 및 뼈 통증 (Pelvic Pain and Bone Pain, esp. Back or Hip Pain)"
+전립선암 (Prostate Cancer),h,혈뇨 및 혈정액증 (Hematuria and Hematospermia)
+전립선암 (Prostate Cancer),h,체중 감소 및 식욕 부진 (Unexplained Weight Loss and Anorexia)
+전립선암 (Prostate Cancer),m,급격한 PSA 상승 (Rapid Prostate-specific Antigen Increase)
+전립선암 (Prostate Cancer),m,야간뇨 증가 (Nocturia Increase)
+전립선암 (Prostate Cancer),m,요실금 또는 소변 정체 (Urinary Incontinence or Retention)
+전립선암 (Prostate Cancer),m,사정 장애 및 성기능 변화 (Ejaculatory Dysfunction and Erectile Dysfunction)
+전립선암 (Prostate Cancer),h,"가족력 (Family History of Prostate Cancer, esp. Early-Onset or Breast Cancer in Family)"
+전립선암 (Prostate Cancer),h,BRCA1/2 돌연변이 보유자 (BRCA1/2 Mutation Carrier)
+전립선암 (Prostate Cancer),h,흑인/African American 유전적 소인 (Black/African American Ancestry)
+전립선암 (Prostate Cancer),h,40세 이전 전립선암 병력 (Personal History of Prostate Cancer Before Age 40)
+전립선암 (Prostate Cancer),m,PSA 검사 기준 초과자 (Above Age-Adjusted Prostate-specific Antigen Median Levels)
+대장암 (Colorectal Cancer),h,직장 출혈 (Rectal Bleeding)
+대장암 (Colorectal Cancer),h,철결핍성 빈혈 (Iron Deficiency Anemia)
+대장암 (Colorectal Cancer),h,설명이 어려운 체중 감소 (Unexplained Weight Loss)
+대장암 (Colorectal Cancer),h,배변 후 잔변감 (Feeling of Incomplete Evacuation)
+대장암 (Colorectal Cancer),m,배변 습관 변화 (Changes in Bowel Habits - Diarrhea/Constipation)
+대장암 (Colorectal Cancer),m,복통 또는 복부 팽만감 (Abdominal Pain or Bloating)
+대장암 (Colorectal Cancer),m,점액성 변 (Mucus in Stool)
+대장암 (Colorectal Cancer),h,염증성 장질환 병력 (Personal History of Inflammatory Bowel Disease - IBD)
+대장암 (Colorectal Cancer),h,대장암 가족력 (Family History of Colorectal Cancer)
+대장암 (Colorectal Cancer),h,대장 선종성 용종 병력 (History of Adenomatous Polyps)
+대장암 (Colorectal Cancer),m,이전 복부 또는 골반 방사선 치료 병력 (Prior Abdominal/Pelvic Radiation Therapy)
+대장암 (Colorectal Cancer),m,흡연 및 과음 (Smoking & Alcohol Consumption)
+대장암 (Colorectal Cancer),m,비만 (Obesity)
+폐암 (Lung Cancer),h,지속적인 기침 (Persistent Cough)
+폐암 (Lung Cancer),h,객혈 (Hemoptysis - Coughing up Blood)
+폐암 (Lung Cancer),h,호흡곤란 (Dyspnea - Shortness of Breath)
+폐암 (Lung Cancer),h,가슴 통증 또는 가슴 불편감 (Chest Pain)
+폐암 (Lung Cancer),h,설명이 어려운 체중 감소 (Unexplained Weight Loss)
+폐암 (Lung Cancer),m,쉰 목소리 (Hoarseness - Voice Changes)
+폐암 (Lung Cancer),m,뼈 통증 (Bone Pain)
+폐암 (Lung Cancer),m,두통 (Headache)
+폐암 (Lung Cancer),m,피로감 (Fatigue)
+폐암 (Lung Cancer),h,흡연력 (Smoking History)
+폐암 (Lung Cancer),m,간접흡연 노출 (Secondhand Smoke Exposure)
+폐암 (Lung Cancer),m,직업적 발암 물질 노출 (Occupational Exposure to Carcinogens)
+폐암 (Lung Cancer),m,라돈 노출 (Residential Radon Exposure)
+폐암 (Lung Cancer),m,방사선 치료 병력 (Prior Chest Radiation Therapy)
+폐암 (Lung Cancer),m,가족력 (Family History of Lung Cancer)
+비후성 심근증 (Hypertrophic cardiomyopathy),h,"호흡곤란 (Dyspnea, Shortness of Breath)"
+비후성 심근증 (Hypertrophic cardiomyopathy),h,"흉통 (Chest Pain, Angina)"
+비후성 심근증 (Hypertrophic cardiomyopathy),h,실신 또는 어지러움 (Syncope or Dizziness)
+비후성 심근증 (Hypertrophic cardiomyopathy),h,운동 후 가슴 답답함 또는 흉통 (Chest Tightness or Angina After Exercise)
+비후성 심근증 (Hypertrophic cardiomyopathy),h,운동 후 또는 기립 시 현기증 (Dizziness Upon Exertion or Standing Up)
+비후성 심근증 (Hypertrophic cardiomyopathy),m,운동 중 또는 식사 후 호흡곤란 (Dyspnea During Exercise or After Meals)
+비후성 심근증 (Hypertrophic cardiomyopathy),m,숨을 들이마실 때보다 내쉴 때 심해지는 호흡곤란 (Expiratory Dyspnea Worse Than Inspiratory Dyspnea)
+비후성 심근증 (Hypertrophic cardiomyopathy),m,발살바 시 어지러움 또는 두근거림 (Lightheadedness or Palpitations During Valsalva Maneuver)
+비후성 심근증 (Hypertrophic cardiomyopathy),h,"갑작스러운 심장마비 가족력 (Family History of Sudden Cardiac Death, SCD)"
+비후성 심근증 (Hypertrophic cardiomyopathy),m,운동 중 혈압 반응 저하 (Abnormal Blood Pressure Response to Exercise)
+뇌졸중 (Stroke),h,편측 마비 (Unilateral Weakness)
+뇌졸중 (Stroke),h,언어 장애 (Speech Disturbance)
+뇌졸중 (Stroke),h,시야 장애 (Visual Disturbance)
+뇌졸중 (Stroke),h,어지럼증 및 균형 문제 (Dizziness & Balance Issues)
+뇌졸중 (Stroke),h,심한 두통 (Severe Headache - Thunderclap Headache 포함)
+뇌졸중 (Stroke),h,의식 저하 (Altered Consciousness)
+뇌졸중 (Stroke),m,감각 저하 (Sensory Loss)
+뇌졸중 (Stroke),m,삼킴 장애 (Dysphagia)
+뇌졸중 (Stroke),m,기억력 저하 (Cognitive Impairment)
+뇌졸중 (Stroke),m,발작 (Seizures)
+뇌졸중 (Stroke),m,"일시적인 증상(TIA) (Transient Ischemic Attack, TIA)"
+뇌졸중 (Stroke),m,구토 (Nausea/Vomiting)
+뇌졸중 (Stroke),h,고혈압 병력 (Hypertension History)
+뇌졸중 (Stroke),h,당뇨병 (Diabetes Mellitus)
+뇌졸중 (Stroke),h,"심방세동 (Atrial Fibrillation, AF)"
+뇌졸중 (Stroke),m,이전 임신 관련 합병증 (Pregnancy-Related Stroke Risk)
+뇌졸중 (Stroke),m,혈관 질환 및 동맥 해리 (Arteriopathy and Arterial Dissection)
+뇌동맥류 지주막하출혈 (aSAH),h,갑작스러운 심한 두통 (Thunderclap Headache)
+뇌동맥류 지주막하출혈 (aSAH),h,의식 저하 또는 혼미 (Altered Consciousness/Coma)
+뇌동맥류 지주막하출혈 (aSAH),h,구토 또는 오심 (Nausea/Vomiting)
+뇌동맥류 지주막하출혈 (aSAH),h,경부 강직 (Neck Stiffness/Nuchal Rigidity)
+뇌동맥류 지주막하출혈 (aSAH),h,발작 (Seizures)
+뇌동맥류 지주막하출혈 (aSAH),h,"일시적 의식 소실 (Transient Loss of Consciousness, TLOC)"
+뇌동맥류 지주막하출혈 (aSAH),m,시야 장애 (Blurred Vision or Diplopia)
+뇌동맥류 지주막하출혈 (aSAH),m,혈압 급상승 (Sudden Severe Hypertension)
+뇌동맥류 지주막하출혈 (aSAH),m,빛 공포증 및 안구통 (Photophobia & Eye Pain)
+뇌동맥류 지주막하출혈 (aSAH),m,두개 내 압력 증가로 인한 두통 지속 (Persistent Headache After Initial Onset)
+뇌동맥류 지주막하출혈 (aSAH),m,사지 감각 이상 (Paresthesia or Numbness in Limbs)
+뇌동맥류 지주막하출혈 (aSAH),h,뇌동맥류 병력 (History of Intracranial Aneurysm)
+뇌동맥류 지주막하출혈 (aSAH),h,가족력 (Family History of Aneurysmal SAH)
+뇌동맥류 지주막하출혈 (aSAH),h,흡연 (Smoking)
+뇌동맥류 지주막하출혈 (aSAH),h,고혈압 (Hypertension)
+뇌동맥류 지주막하출혈 (aSAH),m,다발성 뇌동맥류 (Multiple Aneurysms)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,간헐적 파행 (Claudication)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,하지의 휴식 시 통증 (Ischemic Rest Pain)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,하지 궤양 및 괴저 (Non-healing Wounds/Gangrene)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,비전형적 하지 통증 (Atypical Leg Pain)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,하지 근력 약화 (Leg Weakness)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,하지 냉감 및 창백함 (Cold or Pale Extremity)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,하지의 맥박 감소 (Reduced or Absent Pulses in Lower Extremities)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,자세 변화에 따른 하지 색 변화 (Dependent Rubor and Elevation Pallor)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,"발과 발톱의 변화 (Hair Loss, Nail Changes, Skin Thinning)"
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,만성적 피부 상처 및 감염 (Chronic Wounds and Recurrent Infections)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,하지 부종 (Leg Swelling)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,발기부전 (Erectile Dysfunction)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,흡연력 (Smoking History)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,당뇨병 (Diabetes Mellitus)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,고혈압 (Hypertension)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,고지혈증 (Hyperlipidemia)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,"관상동맥질환 병력 (History of Coronary Artery Disease, CAD)"
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",h,뇌졸중 병력 (History of Stroke)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,"만성 신장 질환 (Chronic Kidney Disease, CKD)"
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,PAD의 가족력 (Family History of PAD)
+"말초동맥질환 (Lower Extremity Peripheral Artery Disease, PAD)",m,류마티스 질환 (Rheumatoid Diseases)
+심방세동 (Atrial fibrillation),h,심계항진 (Palpitations)
+심방세동 (Atrial fibrillation),h,어지럼증 및 실신 (Dizziness and Syncope)
+심방세동 (Atrial fibrillation),h,흉통 (Chest Pain/Angina)
+심방세동 (Atrial fibrillation),h,호흡곤란 (Dyspnea)
+심방세동 (Atrial fibrillation),m,피로 및 무기력 (Fatigue and Weakness)
+심방세동 (Atrial fibrillation),m,인지 기능 저하 (Cognitive Impairment)
+심방세동 (Atrial fibrillation),m,운동 시 호흡곤란 (Exertional Dyspnea)
+심방세동 (Atrial fibrillation),m,"수면 장애 (Sleep Disturbance, Including Nocturnal Dyspnea)"
+심방세동 (Atrial fibrillation),h,고혈압 (Hypertension)
+심방세동 (Atrial fibrillation),h,당뇨병 (Diabetes Mellitus)
+심방세동 (Atrial fibrillation),h,비만 (Obesity)
+심방세동 (Atrial fibrillation),h,흡연 (Smoking)
+심방세동 (Atrial fibrillation),h,과음 (Excessive Alcohol Consumption)
+심방세동 (Atrial fibrillation),m,"만성 신장 질환 (Chronic Kidney Disease, CKD)"
+심방세동 (Atrial fibrillation),h,심근경색 및 관상동맥질환 병력 (History of Myocardial Infarction and CAD)
+심방세동 (Atrial fibrillation),m,"폐쇄성 수면무호흡증 (Obstructive Sleep Apnea, OSA)"
+심부전 (Heart failure),h,호흡곤란 (Dyspnea)
+심부전 (Heart failure),h,기좌호흡 (Orthopnea)
+심부전 (Heart failure),h,"야간 발작성 호흡곤란 (Paroxysmal Nocturnal Dyspnea, PND)"
+심부전 (Heart failure),h,하지부종 (Peripheral Edema)
+심부전 (Heart failure),h,피로 및 무력감 (Fatigue & Weakness)
+심부전 (Heart failure),h,체중 증가 또는 급격한 체중 변화 (Rapid Weight Gain or Loss)
+심부전 (Heart failure),m,야간 잦은 소변 (Nocturia)
+심부전 (Heart failure),m,청색증 (Cyanosis)
+심부전 (Heart failure),m,"불규칙한 심박동 (Irregular Heartbeat, Palpitations)"
+심부전 (Heart failure),m,식욕 감소 및 복부 팽만 (Loss of Appetite & Abdominal Distension)
+심부전 (Heart failure),h,고혈압 (Hypertension)
+심부전 (Heart failure),h,"관상동맥질환 (Coronary Artery Disease, CAD)"
+심부전 (Heart failure),h,당뇨병 (Diabetes Mellitus)
+심부전 (Heart failure),m,"만성 신장 질환 (Chronic Kidney Disease, CKD)"
+심부전 (Heart failure),m,비만 (Obesity)
+심부전 (Heart failure),m,음주 및 흡연 (Alcohol & Smoking)
+심부전 (Heart failure),h,이전 심근경색 병력 (Prior Myocardial Infarction)
+아나필락시스 (Anaphylaxis),h,급성 발현 (Acute Onset of Symptoms)
+아나필락시스 (Anaphylaxis),h,"피부 및 점막 침범 (Skin and Mucosal Involvement: Urticaria, Angioedema, Flushing, Pruritus)"
+아나필락시스 (Anaphylaxis),h,"호흡기 증상 (Respiratory Symptoms: Dyspnea, Wheezing, Stridor, Upper Airway Edema)"
+아나필락시스 (Anaphylaxis),h,"혈압 저하 (Hypotension, Shock, Syncope)"
+아나필락시스 (Anaphylaxis),h,"심한 위장관 증상 (Severe Gastrointestinal Symptoms: Cramping, Vomiting, Diarrhea)"
+아나필락시스 (Anaphylaxis),m,"호흡곤란이 동반된 쉰 목소리 및 연하곤란 (Hoarseness, Difficulty Swallowing with Respiratory Distress)"
+아나필락시스 (Anaphylaxis),m,"빠른 심박수 및 부정맥 (Tachycardia, Arrhythmia)"
+아나필락시스 (Anaphylaxis),m,혼돈 및 의식 저하 (Confusion and Altered Mental Status)
+아나필락시스 (Anaphylaxis),m,혈압 저하 없이 나타나는 복통 및 구역감 (Nausea and Mild Abdominal Symptoms Without Hypotension)
+아나필락시스 (Anaphylaxis),h,과거 아나필락시스 병력 (History of Anaphylaxis)
+아나필락시스 (Anaphylaxis),h,"음식 알레르기 병력 (History of Food Allergy: Peanut, Tree Nuts, Shellfish, Dairy, etc.)"
+아나필락시스 (Anaphylaxis),h,"곤충 독 알레르기 병력 (History of Venom Allergy: Bee, Wasp, Fire Ants)"
+아나필락시스 (Anaphylaxis),m,천식 병력 (History of Asthma)
+아나필락시스 (Anaphylaxis),h,"Beta-lactam antibiotics, NSAIDs, 조영제(Radiocontrast media) 과거 알레르기 병력"
+아나필락시스 (Anaphylaxis),m,"운동 유발 아나필락시스 (Exercise-Induced Anaphylaxis, EIA)"
+아토피 피부염 (Atopic dermatitis),h,심한 가려움증 (Severe Pruritus)
+아토피 피부염 (Atopic dermatitis),h,특징적인 피부 병변 분포 (Characteristic Lesion Distribution)
+아토피 피부염 (Atopic dermatitis),h,만성 또는 재발성 피부염 (Chronic or Recurrent Dermatitis)
+아토피 피부염 (Atopic dermatitis),h,"개인 또는 가족력상 아토피 질환 병력 (Personal or Family History of Atopy: AD, Asthma, Allergic Rhinitis)"
+아토피 피부염 (Atopic dermatitis),m,건조한 피부 (Xerosis / Dry Skin)
+아토피 피부염 (Atopic dermatitis),m,환경적 또는 감정적 요인에 따른 악화 (Course Influenced by Environmental or Emotional Factors)
+아토피 피부염 (Atopic dermatitis),m,"특정 피부 특징 (Specific Skin Features: Keratosis Pilaris, Hyperlinear Palms, Ichthyosis)"
+아토피 피부염 (Atopic dermatitis),m,습진 병변이 특정 부위에 반복 발생 (Tendency for Eczema in Specific Locations)
+아토피 피부염 (Atopic dermatitis),m,출생 초기부터 발생한 피부 병변 (Early-Onset of Skin Lesions)
+아토피 피부염 (Atopic dermatitis),m,"반복적인 피부 감염 병력 (Recurrent Skin Infections: S. aureus, HSV, Fungal Infections)"
+아토피 피부염 (Atopic dermatitis),m,"기타 아토피 관련 합병증 병력 (History of Atopic Comorbidities: Asthma, Allergic Rhinitis, Conjunctivitis)"
+아토피 피부염 (Atopic dermatitis),m,음식 알레르기 병력 (History of Food Allergy)
+알레르기 비염 (Allergic rhinitis),h,"비염 증상 (Nasal Symptoms - Sneezing, Rhinorrhea, Congestion, Itching)"
+알레르기 비염 (Allergic rhinitis),h,눈 가려움 및 결막염 동반 (Ocular Symptoms - Itchy or Watery Eyes)
+알레르기 비염 (Allergic rhinitis),h,특정 환경에서 증상 악화 (Symptom Worsening in Allergen Exposure)
+알레르기 비염 (Allergic rhinitis),m,야간 및 아침 기상 시 증상 악화 (Worse Symptoms at Night or Upon Waking)
+알레르기 비염 (Allergic rhinitis),m,수면 장애 (Sleep Disturbances)
+알레르기 비염 (Allergic rhinitis),m,운동 후 또는 음식 섭취 후 증상 악화 (Exacerbation After Eating or Exercise)
+알레르기 비염 (Allergic rhinitis),m,코골이 및 수면 무호흡 (Snoring and Sleep Apnea)
+알레르기 비염 (Allergic rhinitis),m,귀울림 및 이관기능장애 (Tinnitus and Eustachian Tube Dysfunction)
+알레르기 비염 (Allergic rhinitis),h,알레르기 병력 (History of Allergies - Personal or Family)
+알레르기 비염 (Allergic rhinitis),h,천식 또는 아토피 피부염 동반 (Coexisting Asthma or Atopic Dermatitis)
+알레르기 비염 (Allergic rhinitis),m,흡연 및 환경적 요인 (Smoking and Environmental Exposure)
+알레르기 비염 (Allergic rhinitis),m,직업적 위험 (Occupational Exposure)
+알레르기 비염 (Allergic rhinitis),m,호르몬 변화 (Hormonal Changes)
+위암 (Gastric Cancer),h,체중 감소 (Unintentional Weight Loss)
+위암 (Gastric Cancer),h,지속적인 상복부 통증 (Persistent Epigastric Pain)
+위암 (Gastric Cancer),h,삼킴곤란 (Dysphagia - Difficulty Swallowing)
+위암 (Gastric Cancer),h,출혈성 증상 (GI Bleeding - Melena or Hematemesis)
+위암 (Gastric Cancer),h,식욕 저하 (Loss of Appetite)
+위암 (Gastric Cancer),m,지속적인 소화불량 (Chronic Dyspepsia)
+위암 (Gastric Cancer),m,복부 팽만감 (Abdominal Bloating or Fullness)
+위암 (Gastric Cancer),m,만성 빈혈 (Chronic Anemia - Iron Deficiency)
+위암 (Gastric Cancer),m,조기 포만감 (Early Satiety)
+위암 (Gastric Cancer),h,헬리코박터 파일로리 감염력 (Helicobacter pylori Infection History)
+위암 (Gastric Cancer),h,가족력 (Family History of Gastric Cancer in First-Degree Relatives)
+위암 (Gastric Cancer),h,유전적 요인 (Hereditary Gastrointestinal Polyposis or Hereditary Cancer Syndromes)
+위암 (Gastric Cancer),m,흡연력 (Smoking History)
+위암 (Gastric Cancer),m,"고염식 섭취 (High-Salt Diet, Red Meat, Processed Foods Consumption)"
+위암 (Gastric Cancer),m,장형화생 및 위축성 위염 병력 (History of Gastric Intestinal Metaplasia or Atrophic Gastritis)
+위암 (Gastric Cancer),m,사회경제적 요인 (Living in Persistent Poverty)
+위암 (Gastric Cancer),m,위 절제술 병력 (History of Partial Gastrectomy)
+궤양성 대장염 (Ulcerative Colitis),h,"혈변 (Hematochezia, Bloody Diarrhea)"
+궤양성 대장염 (Ulcerative Colitis),h,"빈번한 설사 (Frequent Diarrhea, Loose Stools)"
+궤양성 대장염 (Ulcerative Colitis),h,급박한 배변 욕구 (Urgency and Tenesmus)
+궤양성 대장염 (Ulcerative Colitis),h,야간 배변 (Nocturnal Bowel Movements)
+궤양성 대장염 (Ulcerative Colitis),h,"체중 감소 및 영양 불량 (Weight Loss, Malnutrition)"
+궤양성 대장염 (Ulcerative Colitis),m,"전신적 증상 (Systemic Symptoms: Fatigue, Fever, Malaise, Anemia)"
+궤양성 대장염 (Ulcerative Colitis),m,복부 경련 및 통증 (Abdominal Cramps and Pain)
+궤양성 대장염 (Ulcerative Colitis),m,점액 배출 (Mucus in Stool)
+궤양성 대장염 (Ulcerative Colitis),m,배변 후 잔변감 (Incomplete Evacuation)
+궤양성 대장염 (Ulcerative Colitis),m,"관절통 (Arthralgia, Joint Pain)"
+궤양성 대장염 (Ulcerative Colitis),m,"눈 및 피부 증상 (Ocular and Dermatologic Manifestations: Uveitis, Erythema Nodosum, Pyoderma Gangrenosum)"
+궤양성 대장염 (Ulcerative Colitis),h,유전적 소인 (Genetic Predisposition)
+궤양성 대장염 (Ulcerative Colitis),m,금연 여부 (Smoking Cessation)
+궤양성 대장염 (Ulcerative Colitis),m,NSAIDs 및 항생제 사용력 (History of NSAID and Antibiotic Use)
+궤양성 대장염 (Ulcerative Colitis),m,반복적인 감염 병력 (History of Recurrent Gastrointestinal Infections)
+궤양성 대장염 (Ulcerative Colitis),m,식이 요인 (Dietary Factors)
+궤양성 대장염 (Ulcerative Colitis),m,심리적 스트레스 (Psychological Stress)
+궤양성 대장염 (Ulcerative Colitis),m,수술력 (History of Appendectomy)
+궤양성 대장염 (Ulcerative Colitis),h,"일차 경화성 담관염 (Primary Sclerosing Cholangitis, PSC) 동반 여부"
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,복통 (Abdominal Pain)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,배변 횟수 감소 (Infrequent Bowel Movements)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,"단단한 변 (Hard or Lumpy Stools, Bristol Stool Form Scale 1-2)"
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,배변 시 과도한 힘주기 (Straining During Bowel Movements)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,불완전 배변감 (Sensation of Incomplete Evacuation)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,복부 팽만감 (Abdominal Bloating)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,배변 후에도 남아있는 불편감 (Post-Defecation Discomfort)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,과민성 대장 증후군의 배변 패턴 변화 (Altered Bowel Habits)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,장내 가스 증가 (Excessive Gas or Flatulence)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,야간 증상 (Nocturnal Symptoms)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,전신적 증상 (Systemic Symptoms)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,여성 (Female Gender)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,젊은 연령 (Younger Age Group)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",h,"스트레스 및 정신 건강 문제 (Stress & Psychological Comorbidities: Anxiety, Depression, etc.)"
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,"식이 요인 (Dietary Factors: Low Fiber, High Fat, FODMAPs Sensitivity)"
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,운동 부족 (Physical Inactivity)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,"수면 장애 (Sleep Disorders: Insomnia, Poor Sleep Quality)"
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,과민성 장 증후군의 가족력 (Family History of IBS)
+"변비형 과민성 대장 증후군 (Irritable Bowel Syndrome with Constipation, IBS-C)",m,이전 위장 질환 및 감염성 장염 병력 (Prior GI Infections & Post-Infectious IBS)
+인체면역결핍바이러스 감염 (HIV Infection),h,발열 (Fever)
+인체면역결핍바이러스 감염 (HIV Infection),h,인후통 (Sore Throat)
+인체면역결핍바이러스 감염 (HIV Infection),h,림프절 종대 (Lymphadenopathy)
+인체면역결핍바이러스 감염 (HIV Infection),h,근육통 및 관절통 (Myalgia and Arthralgia)
+인체면역결핍바이러스 감염 (HIV Infection),h,피부 발진 (Maculopapular Rash)
+인체면역결핍바이러스 감염 (HIV Infection),h,구강 궤양 (Oral Ulcers)
+인체면역결핍바이러스 감염 (HIV Infection),h,체중 감소 (Unintentional Weight Loss)
+인체면역결핍바이러스 감염 (HIV Infection),h,구강 및 식도 칸디다증 (Oral/Esophageal Candidiasis)
+인체면역결핍바이러스 감염 (HIV Infection),h,만성 설사 (Chronic Diarrhea)
+인체면역결핍바이러스 감염 (HIV Infection),m,야간 발한 (Night Sweats)
+인체면역결핍바이러스 감염 (HIV Infection),m,심한 피로 (Severe Fatigue)
+인체면역결핍바이러스 감염 (HIV Infection),m,"복합적인 소화기 증상 (Gastrointestinal Symptoms: Nausea, Vomiting, Abdominal Pain)"
+인체면역결핍바이러스 감염 (HIV Infection),m,"신경학적 증상 (Cognitive Impairment, Peripheral Neuropathy)"
+인체면역결핍바이러스 감염 (HIV Infection),m,생식기 궤양 및 성병 병력 (Genital Ulcers and History of STIs)
+인체면역결핍바이러스 감염 (HIV Infection),h,"남성과 성관계를 가진 남성 (Men Who Have Sex with Men, MSM)"
+인체면역결핍바이러스 감염 (HIV Infection),h,"주사 약물 사용 (Injection Drug Use, IDU)"
+인체면역결핍바이러스 감염 (HIV Infection),h,"성매매 경험 (Transactional Sex, Commercial Sex Work)"
+인체면역결핍바이러스 감염 (HIV Infection),h,HIV 감염 파트너와 성 접촉 (Sexual Contact with HIV-Positive Partner)
+인체면역결핍바이러스 감염 (HIV Infection),m,다수의 성 파트너 (Multiple Sexual Partners)
+인체면역결핍바이러스 감염 (HIV Infection),m,"성병 병력 (History of Sexually Transmitted Infections, STIs)"
+인체면역결핍바이러스 감염 (HIV Infection),m,교도소 수감 경험 (Incarceration History)
+인체면역결핍바이러스 감염 (HIV Infection),m,고위험 환경에서 생활 (Living in High-Prevalence Settings)
+인체면역결핍바이러스 감염 (HIV Infection),h,"모체-태아 수직 감염 (Mother-to-Child Transmission, MTCT)"
+인체면역결핍바이러스 감염 (HIV Infection),m,"침습적 시술 경험 (Invasive Procedures: Tattoos, Piercings, Cosmetic Surgery, etc.)"
+인체면역결핍바이러스 감염 (HIV Infection),m,수혈 또는 장기 이식 병력 (History of Blood Transfusion or Organ Transplantation)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,우상복부 불편감 (Right Upper Quadrant Discomfort)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,피로 (Fatigue)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,"간수치 상승 (Elevated Liver Enzymes, ALT/AST 상승)"
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,체중 증가 또는 비만 (Weight Gain or Obesity)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,체중 감소 및 근감소 (Unintentional Weight Loss and Sarcopenia)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,황달 (Jaundice)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,복수 및 부종 (Ascites and Edema)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,인지 기능 저하 (Cognitive Impairment)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,비만 및 대사 증후군 (Obesity & Metabolic Syndrome)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,"제2형 당뇨병 (Type 2 Diabetes Mellitus, T2DM)"
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),h,"이상지질혈증 (Dyslipidemia: High LDL, Low HDL, High TGs)"
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,고혈압 (Hypertension)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,과도한 알코올 섭취 (Excessive Alcohol Consumption)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,약물 유발 간질환 (Medication-Induced Liver Disease)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,갑상선 기능 저하증 (Hypothyroidism)
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,"유전적 소인 (Genetic Predisposition: PNPLA3, TM6SF2, etc.)"
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,"환경 독소 노출 (Environmental Toxin Exposure: Heavy Metals, Pesticides, Vinyl Chloride)"
+비알코올성 지방간 (Nonalcoholic Fatty Liver Disease),m,"영양 상태 변화 (Nutritional Factors: Rapid Weight Loss, TPN, Malnutrition, High Fructose Intake)"
+만성 폐쇄성 폐질환 (COPD),h,호흡곤란 (Dyspnea)
+만성 폐쇄성 폐질환 (COPD),h,만성 기침 (Chronic Cough)
+만성 폐쇄성 폐질환 (COPD),h,객담 생성 (Sputum Production)
+만성 폐쇄성 폐질환 (COPD),h,호흡음 이상 및 흉부 압박감 (Wheezing and Chest Tightness)
+만성 폐쇄성 폐질환 (COPD),m,운동능력 저하 (Reduced Exercise Tolerance)
+만성 폐쇄성 폐질환 (COPD),m,"전신적 증상 (Systemic Symptoms - Fatigue, Weight Loss, Anorexia)"
+만성 폐쇄성 폐질환 (COPD),m,야간 또는 아침 증상 악화 (Morning/Nighttime Symptoms)
+만성 폐쇄성 폐질환 (COPD),m,흉곽 변형 (Barrel Chest)
+만성 폐쇄성 폐질환 (COPD),m,청색증 (Cyanosis)
+만성 폐쇄성 폐질환 (COPD),m,부종 (Edema)
+만성 폐쇄성 폐질환 (COPD),h,흡연 및 간접흡연 (Smoking and Secondhand Smoke Exposure)
+만성 폐쇄성 폐질환 (COPD),h,직업적 분진 및 화학물질 노출 (Occupational Dust and Chemical Exposure)
+만성 폐쇄성 폐질환 (COPD),h,실내외 공기 오염 (Indoor and Outdoor Air Pollution)
+만성 폐쇄성 폐질환 (COPD),m,어린 시절 호흡기 감염 (Frequent Respiratory Infections in Childhood)
+만성 폐쇄성 폐질환 (COPD),m,가족력 및 유전적 요인 (Family History and Genetic Factors - Alpha-1 Antitrypsin Deficiency)
+만성 폐쇄성 폐질환 (COPD),m,미숙아 출생 및 저체중 출생력 (Premature Birth and Low Birth Weight History)
+만성 폐쇄성 폐질환 (COPD),m,천식 및 기도 과민성 병력 (Asthma and Airway Hyperresponsiveness History)
+만성 폐쇄성 폐질환 (COPD),m,만성 부비동염 및 비강용종 (Chronic Rhinosinusitis and Nasal Polyps)
+천식 (Asthma),h,천명 또는 쌕쌕거림 (Wheezing)
+천식 (Asthma),h,"호흡곤란 (Shortness of Breath, Dyspnea)"
+천식 (Asthma),h,기침 (Cough)
+천식 (Asthma),h,가슴 답답함 (Chest Tightness)
+천식 (Asthma),h,야간 증상 악화 (Nocturnal Symptom Worsening)
+천식 (Asthma),h,활동 제한 (Activity Limitation)
+천식 (Asthma),m,호흡음 이상 (Abnormal Breath Sounds)
+천식 (Asthma),m,알레르기 관련 증상 (Allergy-Associated Symptoms)
+천식 (Asthma),m,급성 악화 병력 (History of Exacerbations)
+천식 (Asthma),m,계절성 증상 변화 (Seasonal Symptom Variation)
+천식 (Asthma),m,감기 후 증상 지속 (Prolonged Symptoms After Viral Infection)
+천식 (Asthma),h,흡연력 및 간접 흡연 (Smoking and Secondhand Smoke Exposure)
+천식 (Asthma),m,직업적 노출 (Occupational Exposure to Irritants or Allergens)
+천식 (Asthma),m,실내 및 실외 공기 오염 (Indoor and Outdoor Air Pollution)
+천식 (Asthma),m,어린 시절 호흡기 감염 병력 (Early Childhood Respiratory Infections)
+천식 (Asthma),m,천식 및 알레르기 가족력 (Family History of Asthma and Allergies)
+천식 (Asthma),m,"개인의 알레르기 관련 병력 (Personal History of Allergic Conditions: Atopic Dermatitis, Allergic Rhinitis, Food Allergy)"
+천식 (Asthma),m,비만 (Obesity)
+천식 (Asthma),m,임신 중 비타민 D 결핍 (Vitamin D Deficiency in Pregnancy)
+천식 (Asthma),m,출생 방법 (Mode of Delivery - Cesarean vs. Vaginal Birth)
+천식 (Asthma),m,광범위 항생제 사용 (Broad-Spectrum Antibiotic Use in Early Life)
+천식 (Asthma),m,부비동염 및 비강 용종 병력 (History of Chronic Sinusitis and Nasal Polyps)
+급성 신손상 (Acute Kidney Injury),h,소변량 감소 또는 무뇨 (Oliguria or Anuria)
+급성 신손상 (Acute Kidney Injury),h,부종 및 체중 증가 (Edema and Weight Gain)
+급성 신손상 (Acute Kidney Injury),h,혼돈 및 의식 변화 (Confusion and Altered Consciousness)
+급성 신손상 (Acute Kidney Injury),h,소변 형태 변화 (Changes in Urinary Appearance)
+급성 신손상 (Acute Kidney Injury),h,고혈압 또는 저혈압 (Hypertension or Hypotension)
+급성 신손상 (Acute Kidney Injury),m,근육 경련 및 경련 (Muscle Cramps and Seizures)
+급성 신손상 (Acute Kidney Injury),m,오심 및 구토 (Nausea and Vomiting)
+급성 신손상 (Acute Kidney Injury),m,허리 통증 (Flank Pain)
+급성 신손상 (Acute Kidney Injury),m,호흡곤란 (Dyspnea)
+급성 신손상 (Acute Kidney Injury),m,야간 다뇨 (Nocturia)
+급성 신손상 (Acute Kidney Injury),m,발열 및 전신 염증 반응 (Fever and Systemic Inflammatory Response)
+급성 신손상 (Acute Kidney Injury),h,만성 신장 질환 병력 (History of Chronic Kidney Disease)
+급성 신손상 (Acute Kidney Injury),h,당뇨병 병력 (History of Diabetes Mellitus)
+급성 신손상 (Acute Kidney Injury),m,고혈압 병력 (History of Hypertension)
+급성 신손상 (Acute Kidney Injury),h,심혈관 질환 병력 (History of Cardiovascular Disease)
+급성 신손상 (Acute Kidney Injury),m,"간질환 병력 (History of Liver Disease, Cirrhosis)"
+급성 신손상 (Acute Kidney Injury),h,급성 질환 및 패혈증 (Sepsis and Critical Illness)
+급성 신손상 (Acute Kidney Injury),h,"수술 후 상태 (Postoperative State, Especially Cardiac Surgery)"
+급성 신손상 (Acute Kidney Injury),h,신독성 약물 사용 (Nephrotoxic Medications)
+급성 신손상 (Acute Kidney Injury),h,조영제 사용 (Radiocontrast Agents)
+급성 신손상 (Acute Kidney Injury),h,탈수 및 저혈량증 (Dehydration and Hypovolemia)
+급성 신손상 (Acute Kidney Injury),m,혈액 질환 및 빈혈 (Anemia and Hematologic Disorders)
+급성 신손상 (Acute Kidney Injury),m,고령 (Advanced Age)
+급성 신손상 (Acute Kidney Injury),h,외상 및 근육 손상 (Trauma and Rhabdomyolysis)
+당뇨병 (Diabetes),h,다뇨 (Polyuria)
+당뇨병 (Diabetes),h,다음 및 갈증 (Polydipsia)
+당뇨병 (Diabetes),h,다식 및 식욕 증가 (Polyphagia)
+당뇨병 (Diabetes),h,체중 감소 (Unintentional Weight Loss)
+당뇨병 (Diabetes),m,"손발 저림 및 감각 이상 (Peripheral Neuropathy: Tingling, Numbness, or Burning Sensation)"
+당뇨병 (Diabetes),m,야간 빈뇨 (Nocturia)
+당뇨병 (Diabetes),m,가려움증 (Pruritus or Dry Skin)
+당뇨병 (Diabetes),m,"잦은 감염 (Frequent Infections, Especially UTIs or Fungal Infections)"
+당뇨병 (Diabetes),m,근력 저하 및 근육 경련 (Muscle Weakness and Cramps)
+당뇨병 (Diabetes),m,식욕 저하 (Loss of Appetite)
+당뇨병 (Diabetes),m,피로 및 무기력 (Fatigue and Lethargy)
+당뇨병 (Diabetes),m,시야 흐림 (Blurred Vision)
+당뇨병 (Diabetes),m,상처 치유 지연 (Delayed Wound Healing)
+당뇨병 (Diabetes),h,당뇨병 가족력 (Family History of Diabetes)
+당뇨병 (Diabetes),h,공복혈당장애 및 내당능장애 병력 (History of Impaired Fasting Glucose or Impaired Glucose Tolerance)
+당뇨병 (Diabetes),h,"비만 또는 과체중 (Overweight or Obesity, BMI ≥25 kg/m²)"
+당뇨병 (Diabetes),h,신체 활동 부족 (Physical Inactivity)
+당뇨병 (Diabetes),h,"고혈압 병력 (History of Hypertension, BP ≥140/90 mmHg)"
+당뇨병 (Diabetes),h,고지혈증 (Dyslipidemia: HDL <35 mg/dL or TG >250 mg/dL)
+당뇨병 (Diabetes),h,"다낭성 난소 증후군 (Polycystic Ovary Syndrome, PCOS) 병력"
+당뇨병 (Diabetes),h,"임신성 당뇨병 병력 (History of Gestational Diabetes Mellitus, GDM)"
+당뇨병 (Diabetes),m,"만성 스트레스 및 정신건강 문제 (Chronic Stress, Depression, Anxiety)"
+당뇨병 (Diabetes),m,"비알코올성 지방간 질환 (Nonalcoholic Fatty Liver Disease, NAFLD)"
+당뇨병 (Diabetes),m,흡연력 (Smoking History)
+당뇨병 (Diabetes),m,음주력 (Alcohol Consumption)
+당뇨병 (Diabetes),m,"신장 질환 병력 (History of Chronic Kidney Disease, CKD)"
+당뇨병 (Diabetes),m,약물 사용 (Use of Hyperglycemia-Inducing Medications)
+당뇨병 (Diabetes),m,수면 부족 (Sleep Deprivation)
+급성 췌장염 (Acute pancreatitis),h,심한 상복부 통증 (Severe Epigastric Pain)
+급성 췌장염 (Acute pancreatitis),h,오심 및 구토 (Nausea and Vomiting)
+급성 췌장염 (Acute pancreatitis),h,식욕 감소 (Loss of Appetite)
+급성 췌장염 (Acute pancreatitis),h,복부 팽만 (Abdominal Distension)
+급성 췌장염 (Acute pancreatitis),m,복부 압통 및 반발통 (Abdominal Tenderness and Rebound Pain)
+급성 췌장염 (Acute pancreatitis),h,황달 (Jaundice)
+급성 췌장염 (Acute pancreatitis),m,청색증 및 출혈성 반점 (Cullen’s and Grey-Turner Signs)
+급성 췌장염 (Acute pancreatitis),m,호흡 곤란 (Respiratory Distress)
+급성 췌장염 (Acute pancreatitis),m,발열 (Fever)
+급성 췌장염 (Acute pancreatitis),m,저혈압 및 빈맥 (Hypotension and Tachycardia)
+급성 췌장염 (Acute pancreatitis),h,담석증 병력 (Gallstone Disease)
+급성 췌장염 (Acute pancreatitis),h,과음 및 만성 음주력 (Heavy Alcohol Use)
+급성 췌장염 (Acute pancreatitis),h,고중성지방혈증 병력 (Hypertriglyceridemia)
+급성 췌장염 (Acute pancreatitis),m,고칼슘혈증 병력 (Hypercalcemia)
+급성 췌장염 (Acute pancreatitis),m,급성 췌장염 가족력 (Family History of Acute Pancreatitis)
+급성 췌장염 (Acute pancreatitis),m,"ERCP 시술력 (History of Endoscopic Retrograde Cholangiopancreatography, ERCP)"
+급성 췌장염 (Acute pancreatitis),m,"이뇨제, 면역억제제, 항경련제, 항생제 복용력 (Diuretics, Immunosuppressants, Anticonvulsants, Antibiotics Use)"
+급성 췌장염 (Acute pancreatitis),m,흡연력 (Smoking History)
+급성 췌장염 (Acute pancreatitis),m,비만 (Obesity)
+급성 췌장염 (Acute pancreatitis),m,췌장 외상 병력 (Pancreatic Trauma History)
+급성 췌장염 (Acute pancreatitis),m,자가면역성 췌장염 병력 (Autoimmune Pancreatitis)
+급성 췌장염 (Acute pancreatitis),m,낭포성 섬유증 및 유전적 요인 (Cystic Fibrosis or Genetic Factors)
+전신 경화증 (Systemic Sclerosis),h,손가락 궤양 (Digital Ulcers)
+전신 경화증 (Systemic Sclerosis),h,"폐섬유화 관련 증상 (Dyspnea, Chronic Dry Cough, Exercise Intolerance)"
+전신 경화증 (Systemic Sclerosis),h,갑작스러운 고혈압 (Sudden Onset of Hypertension)
+전신 경화증 (Systemic Sclerosis),h,흉통 및 심계항진 (Chest Pain and Palpitations)
+전신 경화증 (Systemic Sclerosis),h,연하곤란 (Dysphagia)
+전신 경화증 (Systemic Sclerosis),m,레이노 증후군 (Raynaud’s Phenomenon)
+전신 경화증 (Systemic Sclerosis),m,"피부 경화 (Skin Fibrosis, Sclerodactyly)"
+전신 경화증 (Systemic Sclerosis),m,모세혈관 확장증 (Telangiectasia)
+전신 경화증 (Systemic Sclerosis),m,근력 약화 (Muscle Weakness)
+전신 경화증 (Systemic Sclerosis),m,무감각 및 저림 (Numbness and Tingling)
+전신 경화증 (Systemic Sclerosis),m,만성 피로 및 쇠약감 (Chronic Fatigue and Weakness)
+전신 경화증 (Systemic Sclerosis),m,비의도적 체중 감소 (Unintentional Weight Loss)
+전신 경화증 (Systemic Sclerosis),m,복부 팽만 및 장 운동 이상 (Bloating and Altered Bowel Habits)
+전신 경화증 (Systemic Sclerosis),m,대변 실금 (Fecal Incontinence)
+전신 경화증 (Systemic Sclerosis),m,관절통 및 근육통 (Arthralgia and Myalgia)
+전신 경화증 (Systemic Sclerosis),m,부종 (Edema)
+전신 경화증 (Systemic Sclerosis),h,자가면역 질환 가족력 (Family History of Autoimmune Diseases)
+전신 경화증 (Systemic Sclerosis),h,"항체 양성 (Autoantibody Positivity: ANA, Anti-Scl-70, ACA, RNA Polymerase III)"
+전신 경화증 (Systemic Sclerosis),h,흡연력 (Smoking History)
+전신 경화증 (Systemic Sclerosis),h,실리카 및 유기 용매 노출 (Silica and Organic Solvent Exposure)
+전신 경화증 (Systemic Sclerosis),m,여성 (Female Gender)
+전신 경화증 (Systemic Sclerosis),m,혈관염 및 기타 자가면역 질환 병력 (History of Vasculitis or Other Autoimmune Diseases)
+전신 경화증 (Systemic Sclerosis),m,"만성 감염 (Chronic Infections: CMV, EBV, Parvovirus B19)"
+전신 경화증 (Systemic Sclerosis),m,폐경 후 발병 (Postmenopausal Onset)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,대칭적 관절통 또는 관절염 (Symmetrical Arthritis or Arthralgia)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,나비 모양 발진 (Malar Rash)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,원반형 발진 (Discoid Rash)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,광과민성 발진 (Photosensitive Rash)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,무통성 구강 및 비강 궤양 (Painless Oral/Nasal Ulcers)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,경련 또는 정신병적 증상 (Seizures or Psychosis)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,단백뇨 (Proteinuria)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,부종 (Edema)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,"빈혈, 백혈구 감소증, 혈소판 감소증 (Anemia, Leukopenia, Thrombocytopenia)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,비의도적 체중 감소 (Unintentional Weight Loss)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,미열 (Unexplained Low-grade Fever)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,만성 피로 및 쇠약감 (Chronic Fatigue and Weakness)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,탈모 (Alopecia)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,흉통 및 심계항진 (Chest Pain and Palpitations)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,"호흡곤란 및 만성 마른기침 (Dyspnea, Chronic Dry Cough)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,운동 시 불내성 (Exercise Intolerance)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,"구강 및 안구 건조감 (Dry Eyes, Dry Mouth)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,사지의 저림 및 무감각 (Numbness and Tingling)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,가족 내 자가면역 질환 병력 (Family history of autoimmune diseases)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,"여성, 특히 가임기 (Female sex, particularly reproductive years)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,흡연력 (Smoking history)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),h,장기간 햇빛(자외선) 노출력 (Significant UV exposure history)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,경구피임약 혹은 호르몬 치료 복용력 (Oral contraceptive or hormonal therapy use)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,"약물 유발성 루푸스 가능 약물 복용력 (History of lupus-inducing medications: hydralazine, procainamide, isoniazid)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,비만 또는 대사증후군 (Obesity or metabolic syndrome)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,"심혈관 위험 인자 (Cardiovascular risk factors: hypertension, dyslipidemia)"
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,정신사회적 스트레스 (Recent psychosocial stress)
+전신 홍반성 루푸스 (Systemic Lupus Erythematosus),m,"바이러스 감염력 (Recent or recurrent viral infections, e.g., Epstein-Barr Virus)"
+갑상선 기능 저하증 (Hypothyroidism),h,만성 피로감 (Chronic Fatigue)
+갑상선 기능 저하증 (Hypothyroidism),h,추위 불내성 (Cold Intolerance)
+갑상선 기능 저하증 (Hypothyroidism),h,체중 증가 (Weight Gain)
+갑상선 기능 저하증 (Hypothyroidism),h,변비 (Constipation)
+갑상선 기능 저하증 (Hypothyroidism),h,"건조하고 거친 피부 (Dry, Coarse Skin)"
+갑상선 기능 저하증 (Hypothyroidism),h,목소리 변화 (Hoarseness)
+갑상선 기능 저하증 (Hypothyroidism),m,근육통 및 근육 약화 (Myalgia and Muscle Weakness)
+갑상선 기능 저하증 (Hypothyroidism),m,탈모 (Hair Loss)
+갑상선 기능 저하증 (Hypothyroidism),m,"월경 불규칙 및 과다월경 (Menstrual Irregularities, Menorrhagia)"
+갑상선 기능 저하증 (Hypothyroidism),m,서맥 (Bradycardia)
+갑상선 기능 저하증 (Hypothyroidism),m,안면 및 하지 부종 (Facial and Lower Extremity Edema)
+갑상선 기능 저하증 (Hypothyroidism),m,기억력 및 집중력 저하 (Cognitive Impairment)
+갑상선 기능 저하증 (Hypothyroidism),m,우울감 또는 정서 불안정 (Depressed Mood or Emotional Instability)
+갑상선 기능 저하증 (Hypothyroidism),m,근육 경련 (Muscle cramps)
+갑상선 기능 저하증 (Hypothyroidism),m,창백함 및 운동 시 호흡곤란 (Pallor and Exertional Dyspnea)
+갑상선 기능 저하증 (Hypothyroidism),h,갑상선 또는 자가면역 질환의 가족력 (Family History of Thyroid or Autoimmune Disease)
+갑상선 기능 저하증 (Hypothyroidism),h,과거 갑상선 수술 또는 방사선 치료력 (History of Thyroid Surgery or Radiation Therapy)
+갑상선 기능 저하증 (Hypothyroidism),m,다른 자가면역 질환 병력 (History of Other Autoimmune Diseases)
+갑상선 기능 저하증 (Hypothyroidism),m,정신과 질환 병력 (History of Psychiatric Disorders)
+갑상선 기능 저하증 (Hypothyroidism),m,다운증후군 또는 터너 증후군 병력 (Down or Turner Syndrome)
+갑상선 기능 저하증 (Hypothyroidism),m,"아미오다론, 리튬, 인터페론 복용력 (Amiodarone, Lithium, Interferon Use)"
+갑상선 기능 저하증 (Hypothyroidism),m,과도한 요오드 섭취 (Excessive Iodine Intake)
+갑상선 기능 저하증 (Hypothyroidism),m,임신 (Pregnancy)
+갑상선 기능 저하증 (Hypothyroidism),m,60세 이상의 연령 (Age ≥ 60 years)

@@ -1,0 +1,73 @@
+<Prompt>
+Below is a set of consultation dialogues between a doctor and a patient with {disease}. The dialogue consists of the patient's main symptom, a few turns of questions, options, and answer triplets. The questions and options are given by the doctor, and the answers are provided by the patient. 
+
+Your task is to organize the dialogue in a clear, information-based manner using bullet points. Each bullet point should contain only one piece of information. This structured information is essential for diagnosing the patient's condition, so make sure to extract as much relevant information as possible.
+</Prompt>
+
+<Guidelines for Organizing>
+- Do not include the main symptom in the bullet points. The main symptom is just for reference and should not be summarized in bullet points.
+- Focus only on the information that can be inferred from the Question-Options-Answer triplets.
+- Each bullet point must present only one piece of information.
+- Avoid sentences with multiple clauses. For example, instead of “The patient has cough and sputum,” break it down into two points: “The patient has a cough” and “The patient has sputum.”
+- Avoid using demonstrative pronouns (e.g., “this symptom”) and pronouns (e.g., “he/she”). Focus on the specific symptoms.
+- Organize the information from the patient’s perspective, avoiding the doctor as the subject.
+- Keep the language neutral and concise, stating only the facts shared by the patient.
+- If the question asks about additional symptoms beyond the main symptom and the answer is that no other symptoms are present, list each symptom option provided in the question and state that the patient does not have each of those symptoms. For example, instead of "There are no other symptoms," specify each of the symptom option provided: "There is no family history," "There is no weight loss," "There is no fever."
+- Be precise and specific in organizing the information. For example, if a question asks about "whether the patient has ever had any tests related to lumps or breasts," and the answer is "No," do not simply write "The patient has not had any tests." Instead, write, "The patient has not had any tests related to lumps or breasts."
+</Guidelines for Organizing>
+
+<Example1>
+## Input:
+Main Symptom: I’m worried because I can feel a hard lump in my left breast.
+Question: \nHow big is the hard lump in your left breast?\n\nOptions:\n- bean size\n- coin size\n- hand size\n- bigger\n- not sure  
+Answer: - coin size
+Question: \nDo you feel any pain or discomfort around the hard lump in your left breast?\n\nOptions:\n- I feel pain.\n- I feel discomfort.\n- I don't feel either pain or discomfort.\n- There is occasional dull pain.\n- not sure
+Answer: - There is occasional dull pain.
+Question: \nAside from the hard lump in your left breast, are there any other symptoms, such as nipple discharge or changes in the breast skin? \n\nOptions: \n- There is discharge from the nipple. \n- The breast skin is red or swollen. \n- The breast skin appears dimpled or sunken. \n- There are no other symptoms. \n- not sure
+Answer: - There is discharge from the nipple.
+Question : \nAside from the lump in your left breast, do you feel any lumps or masses in other parts of your body?\n\nOptions:\n- Lumps are felt in other areas as well.\n- No lumps are felt in other areas.\n- Occasionally, it seems like lumps are felt in other areas.\n- not sure\n- not applicable  
+Answer: - No lumps are felt in other areas.
+Question: \nHas anyone in your family had a similar issue related to the hard lump in your left breast?\n\nOptions:\n- yes\n- no\n- not sure\n- There is a family history of a different illness\n5. not applicable
+Answer: - no
+
+## Organized Information:
+- The hard lump in the left breast is about the size of a coin.
+- There is occasional dull pain around the hard lump in the left breast.
+- There is discharge from the nipple.
+- The breast skin is not red or swollen.
+- The breast skin is not dimpled or sunken.
+- No lumps are present in areas other than the left breast.
+- There is no family history related to the hard lump in the left breast.
+</Example1>
+
+<Example2>
+##Input:
+Main Symptom: I’m worried because I can feel a hard lump in my left breast.
+Question:\nHow big is the hard lump in your left breast?\nOptions:\n- small\n- medium\n- big\n- not sure\n- not applicable
+Answer: - medium
+Question:\nDo you feel any pain or discomfort around the hard lump in your left breast?\nOptions:\n- It hurts.\n- It hurts intermittently.\n- There is no pain at all. \n- It feels like a crawling or tingling sensation (like insects).\n- not applicable
+Answer: - There is no pain at all.
+Question:\nSince you noticed the hard lump in your left breast, have you experienced any changes in your weight?\nOptions:\n- I lost weight.\n- I gained weight.\n- There has been no change in my weight \n- not applicable\n- not sure
+Answer: - There has been no change in my weight
+Question:\nSince the hard lump appeared in your left breast, have you experienced fatigue or a feeling of being low on energy?\nOptions:\n- I feel it strongly.\n- I feel it occasionally.\n- I don’t feel it at all.\n- not sure\n- not applicable
+Answer: - I feel it occasionally.
+Question:\nHave you experienced any other symptoms, such as coughing, shortness of breath, fever, or night sweats, aside from the lump?\nOptions:\n- I have a fever.\n- I have a cough.\n- I experience night sweats.\n- I have shortness of breath.\n- not applicable
+Answer: - not applicable
+
+## Organized Information:
+- The hard lump in the right breast is of medium size.
+- There is no pain around the hard lump in the right breast.
+- There has been no change in weight.
+- Occasional fatigue is felt.
+- There is no fever.
+- There is no cough.
+- There are no night sweats.
+- There is no shortness of breath.
+</Example2>
+
+## Input:
+
+{input}
+
+## Organized Information:
+- 

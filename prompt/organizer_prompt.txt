@@ -1,0 +1,73 @@
+<Prompt>
+Below is a set of consultation dialogues between a doctor and a patient with {disease}. The dialogue consists of the patient's main symptom, a few turns of questions, options, and answer triplets. The questions and options are given by the doctor, and the answers are provided by the patient. 
+
+Your task is to organize the dialogue in a clear, information-based manner using bullet points. Each bullet point should contain only one piece of information. This structured information is essential for diagnosing the patient's condition, so make sure to extract as much relevant information as possible.
+</Prompt>
+
+<Guidelines for Organizing>
+- Do not include the main symptom in the bullet points. The main symptom is just for reference and should not be summarized in bullet points.
+- Focus only on the information that can be inferred from the Question-Options-Answer triplets.
+- Each bullet point must present only one piece of information.
+- Avoid sentences with multiple clauses. For example, instead of “The patient has cough and sputum,” break it down into two points: “The patient has a cough” and “The patient has sputum.”
+- Avoid using demonstrative pronouns (e.g., “this symptom”) and pronouns (e.g., “he/she”). Focus on the specific symptoms.
+- Organize the information from the patient’s perspective, avoiding the doctor as the subject.
+- Keep the language neutral and concise, stating only the facts shared by the patient.
+- If the question asks about additional symptoms beyond the main symptom and the answer is that no other symptoms are present, list each symptom option provided in the question and state that the patient does not have each of those symptoms. For example, instead of "There are no other symptoms," specify each of the symptom option provided: "There is no family history," "There is no weight loss," "There is no fever."
+- Be precise and specific in organizing the information. For example, if a question asks about "whether the patient has ever had any tests related to lumps or breasts," and the answer is "No," do not simply write "The patient has not had any tests." Instead, write, "The patient has not had any tests related to lumps or breasts."
+</Guidelines for Organizing>
+
+<Example1>
+## Input:
+Main Symptom: 왼쪽 가슴에 단단한 혹이 만져져서 걱정돼요
+Question: \n왼쪽 가슴에 만져지는 단단한 혹의 크기는 어떻게 되나요?\n\nOptions:\n- 콩알 크기\n- 동전 크기\n- 손바닥 크기\n- 그 이상\n- 잘 모르겠음  
+Answer: - 동전 크기
+Question: \n왼쪽 가슴의 단단한 혹 주위에 통증이나 불편함이 있나요?\n\nOptions:\n- 통증이 있다\n- 불편함이 있다\n- 통증도 불편함도 없다\n- 가끔 둔한 통증이 있다\n- 잘 모르겠음  
+Answer: - 가끔 둔한 통증이 있다
+Question: \n왼쪽 유방의 단단한 혹 외에 다른 증상, 예를 들어 유두 분비물이나 유방 피부 변화가 있나요? \n\nOptions: \n- 유두에서 분비물이 있습니다 \n- 유방 피부가 붉거나 부풀어 올랐습니다 \n- 유방 피부가 움푹 들어갔습니다 \n- 다른 증상은 없습니다 \n- 잘 모르겠음
+Answer: - 유두에서 분비물이 있습니다
+Question : \n왼쪽 가슴의 혹 외에 다른 부위에도 혹이나 덩어리가 만져지나요?\n\nOptions:\n- 다른 부위에도 만져진다\n- 만져지지 않는다\n- 가끔 다른 부위에 만져지는 것 같다\n- 잘 모르겠음\n- 해당 없음  
+Answer: - 만져지지 않는다
+Question: \n왼쪽 가슴의 단단한 혹과 관련하여 가족 중에 유사한 문제가 있었던 분이 있나요?\n\nOptions:\n- 있다\n- 없다\n- 잘 모르겠음\n- 가족력이 다른 질병으로 있다\n- 해당 없음 
+Answer: - 없다
+
+## Organized Information:
+- 왼쪽 가슴에 만져지는 단단한 혹의 크기는 동전 크기이다.
+- 왼쪽 가슴에 만져지는 단단한 혹 주위에 가끔 둔한 통증이 있다.
+- 유두에서 분비물이 있다.
+- 유방 피부가 붉거나 부풀어오르지 않았다.
+- 유방 피부가 움푹 들어가지는 않았다.
+- 왼쪽 가슴 이외 다른 부위에는 혹이 없다.
+- 왼쪽 가슴 단단한 혹 관련 가족력이 없다.
+</Example1>
+
+<Example2>
+## Input:
+Main Symptom: 오른쪽 가슴에 단단한 혹이 만져져서 걱정돼요
+Question:\n왼쪽 가슴에 만져지는 단단한 혹의 크기는 어떻게 되나요?\nOptions:\n- 작다\n- 중간이다\n- 크다\n- 잘 모르겠음\n- 해당 없음
+Answer: - 중간이다
+Question:\n왼쪽 가슴의 단단한 혹 주변에 통증이나 불편함이 있나요?\nOptions:\n- 아프다\n- 간헐적으로 아프다\n- 전혀 아프지 않다 \n- 벌레와 같은 감각이 느껴진다\n- 해당 없음
+Answer: - 전혀 아프지 않다
+Question:\n왼쪽 가슴의 단단한 혹이 만져진 이후로 체중 변화가 있었나요?\nOptions:\n- 체중이 줄었다\n- 체중이 늘었다\n- 체중 변화가 없었다\n- 해당 없음\n- 잘 모르겠음
+Answer: - 체중 변화가 없었다
+Question:\n왼쪽 가슴의 단단한 혹이 나타난 이후로 피로감이나 기운이 없는 느낌이 있었나요?\nOptions:\n- 아주 느끼고 있다\n- 가끔 느끼고 있다\n- 전혀 느끼지 않고 있다\n- 잘 모르겠음\n- 해당 없음
+Answer: - 가끔 느끼고 있다
+Question:\n혹 외에 다른 증상, 예를 들어 기침, 호흡 곤란, 발열 또는 밤에 땀을 흘리는 일이 있었나요?\nOptions:\n- 발열이 있다\n- 기침이 있다\n- 밤에 땀을 흘린다\n- 호흡 곤란이 있다\n- 해당 없음
+Answer: - 해당 없음
+
+## Organized Information:
+- 오른쪽 가슴에 만져지는 단단한 혹의 크기는 중간이다.
+- 오른쪽 가슴에 만져지는 단단한 혹 주변에 전혀 아프지 않다.
+- 체중 변화가 없었다.
+- 가끔 피로감이 느껴진다.
+- 발열은 없다.
+- 기침은 없다.
+- 밤에 땀을 흘리지는 않는다.
+- 호흡 곤란은 없다.
+</Example2>
+
+## Input:
+
+{input}
+
+## Organized Information:
+- 
