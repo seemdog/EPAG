@@ -4,7 +4,7 @@ Evaluating the Pre-Consultation Ability of LLMs using Diagnostic Guidelines
 
 
 ## Supported Models
-`openai`, `claude`, `hf` models 
+`openai`, `anthropic`, `hf` models 
 
 ## Usage
 
